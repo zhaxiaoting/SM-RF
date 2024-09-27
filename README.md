@@ -1,0 +1,1 @@
+MATLAB777 contains raw data, while MATLAB999 already includes oversampled balanced data. This means that running RF code means running SM-RF code without the need to rerun the SMOTE program. If you want to modify the original data, you need to modify MATLAB 777. If you want to modify the oversampled data, you need to modify the relevant data in MATLAB 999.
